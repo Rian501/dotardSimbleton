@@ -39,3 +39,6 @@ businesses.forEach(business => {
     `;
   outEl.innerHTML += "<hr/>";
 });
+
+
+

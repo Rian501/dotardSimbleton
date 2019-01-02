@@ -1,4 +1,4 @@
-const outEl = document.querySelector("#output");
+// const outEl = document.querySelector("#output");
 
 document
   .querySelector("#agentSearch")

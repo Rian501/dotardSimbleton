@@ -1,4 +1,4 @@
-let outEl = document.querySelector("#output");
+// let outEl = document.querySelector("#output");
 outEl.innerHTML += "<h1>Purchasing Agents</h1>";
 
 /*
@@ -14,7 +14,7 @@ const agents = businesses.map(business => {
   return agentInfo;
 })
 
-console.log(agents)
+// console.log(agents)
 
 agents.forEach(agent => {
   outEl.innerHTML += `<h2>${agent.fullname}</h2>
